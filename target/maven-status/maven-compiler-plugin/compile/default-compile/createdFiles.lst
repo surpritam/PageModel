@@ -1,0 +1,5 @@
+com/Appium/pageModel/Pages/StepperPage.class
+com/Appium/pageModel/utils/AbstractPage.class
+com/Appium/pageModel/Pages/CatalogPage.class
+com/Appium/pageModel/utils/AbstractTest.class
+com/Appium/pageModel/Pages/LandingPage.class
